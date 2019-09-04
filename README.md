@@ -5,4 +5,4 @@
 - Raghunandan Kumar Naishadam
 - Bhavya deepthi Gorrepati
 - Venkat Prudhvi Dommaraju
-- Hareesh
+- Venkata Hareesh Bhuma
