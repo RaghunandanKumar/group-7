@@ -6,3 +6,5 @@
 - Bhavya deepthi Gorrepati
 - Venkat Prudhvi Dommaraju
 - Venkata Hareesh Bhuma
+## Github profiles
+- [Venkat Prudhvi Dommaraju](https://github.com/prudhvi15)
