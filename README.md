@@ -1,5 +1,3 @@
-
-
 # group-7
 
 ## Group Members
