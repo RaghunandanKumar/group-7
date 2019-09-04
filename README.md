@@ -2,6 +2,7 @@
 
 # group-7
 ## Group Members
-- Raghunandan
+- Raghunandan Kumar Naishadam
 - Bhavya deepthi Gorrepati
 - Venkat Prudhvi Dommaraju
+- Hareesh
